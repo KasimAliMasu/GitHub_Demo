@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
+  // Masu kasimali this delete
 }
 
 class MyApp extends StatelessWidget {
